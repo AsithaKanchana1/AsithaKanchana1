@@ -18,7 +18,7 @@ jobs:
       - name: Generate Snake Game
         uses: Platane/snk@v2
         with:
-          github_user_name: AsithaKanchana1 # Replace with your GitHub username
+          github_user_name: asithakanchana1 # Replace with your GitHub username
           outputs: dist/snake.svg
 
       # Commit and push the generated snake.svg file
