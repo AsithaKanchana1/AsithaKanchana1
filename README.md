@@ -1,5 +1,14 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
+### 🌟 About Me:
+- 🔭 I’m currently working on [Eligibility Calculator App ](https://github.com/AsithaKanchana1/eligibility-checker)  
+- 🌱 I’m currently learning **React Native**  
+- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/AsithaKanchana1)  
+- 💬 Ask me about **React, Web Development, Python, AI**  
+- 📫 How to reach me: **asitha.contact@gmail.com**  
+- ⚡ Fun fact: **I think I am funny and a tech lover.**
+
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
