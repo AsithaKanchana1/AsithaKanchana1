@@ -42,6 +42,7 @@
 
 ![Snake animation](https://github.com/AsithaKanchana1/AsithaKanchana1/blob/output/snake.svg)
 
+
 ### 🌐 Connect with Me:
 
 <p align="left">
