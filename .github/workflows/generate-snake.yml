@@ -16,7 +16,7 @@ jobs:
 
       # Generate the snake animation
       - name: Generate Snake Game
-        uses: Platane/snk@v2
+        uses: Platane/snk@v3.0.0
         with:
           github_user_name: AsithaKanchana1 # Replace with your GitHub username
           outputs: dist/snake.svg
