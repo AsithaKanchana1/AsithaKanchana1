@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **React Native**  
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/AsithaKanchana1)  
 - 💬 Ask me about **React, Web Development, Python, AI**  
-- 📫 How to reach me: **asitha.contact@gmail.com**  
+- 📫 How to reach me: **asitha.contact.me@gmail.com**  
 - ⚡ Fun fact: **I think I am funny and a tech lover.**
 
 
