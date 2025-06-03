@@ -1,7 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 ### 🌟 About Me:
-- 🔭 I’m currently working on [Eligibility Calculator App ](https://github.com/AsithaKanchana1/eligibility-checker)  
+- 🔭 I’m currently working on [HiddnSriLanka Mobile App](#)  
 - 🌱 I’m currently learning **React Native**  
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/AsithaKanchana1)  
 - 💬 Ask me about **React, Web Development, Python, AI**  
