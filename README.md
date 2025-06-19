@@ -1,8 +1,8 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 ### 🌟 About Me:
-- 🔭 I’m currently working on [HiddnSriLanka Mobile App](#)  
-- 🌱 I’m currently learning **React Native**  
+- 🔭 I’m currently working on [HiddnSriLanka Mobile App](https://github.com/AsithaKanchana1/Hidden-Sri-Lanka.git)  
+- 🌱 I’m currently learning **Android Studio with Java**  
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/AsithaKanchana1)  
 - 💬 Ask me about **React, Web Development, Python, AI**  
 - 📫 How to reach me: **asitha.contact.me@gmail.com**  
