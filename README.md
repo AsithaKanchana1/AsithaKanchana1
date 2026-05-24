@@ -1,13 +1,14 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="banner_github.png" alt="Profile Banner" width="100%" />
 
 ### 🌟 About Me:
-- 🔭 I’m currently working on [HiddnSriLanka Mobile App](https://github.com/AsithaKanchana1/Hidden-Sri-Lanka.git)  
-- 🌱 I’m currently learning **Android Studio with Java**  
+- 🎓 I’m currently a **3rd-year Software Engineering Student**  
+- 🔭 I’m currently working on **Cross-platform applications (HR Management Systems & E-commerce)**  
+- 🌱 I’m currently using **Tauri, React, Firebase, and AI-native development tools**  
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/AsithaKanchana1)  
-- 💬 Ask me about **React, Web Development, Python, AI**  
+- 🐧 I'm a dedicated **Arch Linux** user with a terminal-centric workflow (Neovim, Kitty, Yazi)
+- 💬 Ask me about **React, Web Development, Python, Linux**  
 - 📫 How to reach me: **www.asitha.site**  
 - ⚡ Fun fact: **I think I am funny and a tech lover.**
-
 
 <br><br>
 
@@ -44,13 +45,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="30" alt="fedora logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="30" alt="archlinux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="30" alt="neovim logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="30" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
@@ -76,13 +79,13 @@
 ### Join With me via Social
 
 <div align="left">
-  <a href="youtube.com/@asi_solution" target="_blank">
+  <a href="https://youtube.com/@asi_solution" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
   <a href="https://www.instagram.com/asithakanchana01?igsh=YzljYTk1ODg3Zg==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://www.instagram.com/asithakanchana01?igsh=YzljYTk1ODg3Zg==" target="_blank">
+  <a href="mailto:asitha.contact.me@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/asitha-kanchana-35aa531a8/" target="_blank">
@@ -101,7 +104,7 @@
 
 ### My Contribution Snake 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AsithaKanchana1/AsithaKanchana1/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AsithaKanchana1/AsithaKanchana1/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AsithaKanchana1/AsithaKanchana1/output/github-snake.svg" />
 </picture>
