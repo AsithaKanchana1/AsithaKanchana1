@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/AsithaKanchana1)  
 - 🐧 I'm a dedicated **Arch Linux** user with a terminal-centric workflow (Neovim, Kitty, Yazi)
 - 💬 Ask me about **React, Web Development, Python, Linux**  
-- 📫 How to reach me: **www.asitha.site**  
+- 📫 How to reach me: **www.asitha.online**  
 - ⚡ Fun fact: **I think I am funny and a tech lover.**
 
 <br><br>
